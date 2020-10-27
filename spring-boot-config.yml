@@ -1,0 +1,8 @@
+app:
+    name: My app
+    description: Welcome to ${app.name}
+
+my:
+    greeting: Geetings, Hello World. 
+    list:
+         values: One, Two, Three, Four     
