@@ -1,5 +1,5 @@
 app.name=My app
 app.description=Welcome to ${app.name}
 
-my.greeting= Geetings, Microservice Spring Config specfic configuration. 
+my.greeting= Greetings, Microservice Spring Config specfic configuration. Update.
 my.list.values=One, Two, Three, Four     
